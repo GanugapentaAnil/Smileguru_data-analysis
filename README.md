@@ -67,8 +67,5 @@ Most Active User ID: 982.749.502.
 
 ✔ Encourage More Form Submissions: The "Dental-implants" page has the highest conversions; similar strategies should be applied to other pages.
 
- # 📬 Contact & Contribution
-Feel free to contribute by improving the SQL queries, adding new visualizations, or enhancing the Power BI dashboard.
 
-📧 For any queries, reach out via GitHub Issues.
 
